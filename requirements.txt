@@ -1,0 +1,30 @@
+# MiMo Code Quality Assurance Tool - Dependencies
+# Python 3.10+ required
+
+# API & HTTP
+requests>=2.28.0
+python-dotenv>=0.21.0
+
+# Git Integration
+gitpython>=3.1.30
+
+# Code Analysis
+pylint>=2.17.0
+flake8>=6.0.0
+pytest>=7.3.0
+pytest-cov>=4.0.0
+
+# CLI & UI
+rich>=13.3.0
+tqdm>=4.65.0
+
+# Utilities
+pyyaml>=6.0
+jinja2>=3.1.0
+
+# Web Interface
+flask>=2.3.0
+werkzeug>=2.3.0
+
+# Optional: for syntax highlighting in reports
+Pygments>=2.15.0
