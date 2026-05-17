@@ -189,17 +189,3 @@ Error: Invalid API Key. Please check your .env file.
 Error: API quota exceeded.
 ```
 解决：联系 MiMo 提升额度或等待配额重置
-
-### Git 仓库克隆失败
-```
-Error: Failed to clone repository.
-```
-解决：检查网络连接和 GitHub 仓库地址
-
-## 贡献
-
-欢迎提交 Issue 和 Pull Request！
-
-## 许可证
-
-MIT License
